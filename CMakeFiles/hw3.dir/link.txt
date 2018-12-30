@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hw3.dir/src/camera.cpp.o CMakeFiles/hw3.dir/src/image.cpp.o CMakeFiles/hw3.dir/src/parseFile2.cpp.o CMakeFiles/hw3.dir/src/pixel.cpp.o  -o hw3 
